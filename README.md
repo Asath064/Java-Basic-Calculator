@@ -26,11 +26,10 @@ The program accepts user input, processes the selected operation, and displays t
 
 Java-Basic-Calculator
 
-├── Calculator.java
-
 ├── README.md
 
-└── Screenshots
+└── Calculator.java
+
 
 ## How to Run
 
